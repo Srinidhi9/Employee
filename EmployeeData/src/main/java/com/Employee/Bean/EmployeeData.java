@@ -11,7 +11,32 @@ public class EmployeeData {
 	private String EmployeeType;
 	private String Education;
 	private String Skills;
+	private String Experience;
 	
+	public String getDOB() {
+		return DOB;
+	}
+	public void setDOB(String dOB) {
+		DOB = dOB;
+	}
+	public String getEducation() {
+		return Education;
+	}
+	public void setEducation(String education) {
+		Education = education;
+	}
+	public String getSkills() {
+		return Skills;
+	}
+	public void setSkills(String skills) {
+		Skills = skills;
+	}
+	public String getExperience() {
+		return Experience;
+	}
+	public void setExperience(String experience) {
+		Experience = experience;
+	}
 	public String getEmployeeId() {
 		return EmployeeId;
 	}
