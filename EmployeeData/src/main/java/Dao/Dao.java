@@ -1,11 +1,11 @@
-package com.Employee.Dao;
+package Dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import com.Employee.Bean.EmployeeData;
+import Bean.EmployeeData;
 
 
 public class Dao {

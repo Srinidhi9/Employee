@@ -1,4 +1,4 @@
-package com.Employee.Bean;
+package Bean;
 
 public class EmployeeData {
 	private String EmployeeId;
