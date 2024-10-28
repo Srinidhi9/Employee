@@ -1,4 +1,4 @@
-package com.Employee.Dao;
+package Dao;
 
 import java.sql.*;
 import java.sql.DriverManager;
